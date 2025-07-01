@@ -1,3 +1,23 @@
+# 🛍️ Alura Store - Análisis de Datos
+
+## 📌 Propósito del análisis
+
+Este proyecto tiene como objetivo analizar los datos de ventas de **cuatro tiendas** pertenecientes a Alura Store.  
+El fin es ayudar al Sr. Juan a decidir cuál tienda vender para obtener liquidez e invertir en un nuevo negocio, identificando aquella con menor desempeño global a través de métricas como facturación, utilidad, calificaciones y volumen de ventas.
+
+---
+
+## 🗂️ Estructura del proyecto
+
+AluraStoreLatam/
+├── AluraStoreLatam.ipynb # Notebook principal con el análisis completo
+├── README.md # Documentación del proyecto
+├── images/ # Carpeta con gráficos generados
+│ ├── facturacion.png
+│ ├── categorias.png
+│ ├── satisfacion.png
+│ ├── productos_vendidos.png
+│ └── envio_promedio.png
 
 ---
 
